@@ -1,0 +1,2 @@
+# SmartCommunityInformationPlatform
+ 基于SSM的智慧社区信息平台
